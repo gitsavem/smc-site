@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@media screen and (min-width: 720px) and (max-width: 1600px){
+    body{
+        font: normal 16pt Arial;
+    }
+    #previas p{
+        padding: 20px;
+    }
+}
